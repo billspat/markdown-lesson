@@ -8,4 +8,5 @@ This is a lesson that...
 
 ### Links
 
-- [github](https://github.com)
+- A very popular code repository system, owned by microsoft [github](https://github.com)
+- Another great option, has open source version : [gitlab](https://gitlab.com)
